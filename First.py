@@ -7,7 +7,6 @@ def FirstFunction(x):#First Function.
 
 # def TinrdFunction(x):#Second Function
 #     return 4*x + 1
-
 if __name__ == '__main__':
     x = range(-10, 15) #Values in X taken for the plane
     # Graph both functions.
